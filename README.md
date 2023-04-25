@@ -5,8 +5,8 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions .
-- 🎓 &nbsp; Studying Software engineering at Hanyang University .
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
+- 🎓 &nbsp; Studying Software engineer at Hanyang University .
+- 🌱 &nbsp; Learning more about Cloud Architecture, Web and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Graphic Design and Game design as hobbies/side hustles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
