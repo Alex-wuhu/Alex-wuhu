@@ -6,7 +6,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions .
 - 🎓 &nbsp; Studying Software engineer at Hanyang University .
-- 🌱 &nbsp; Learning more about Cloud Architecture, Web and Artificial Intelligence.
+- 🌱 &nbsp; Learning more about Web , Artificial Intelligence and Cloud Architecture.
 - ✍️ &nbsp; Pursuing Graphic Design and Game design as hobbies/side hustles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
