@@ -5,7 +5,6 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and software solutions .
-- ✍️ &nbsp; Software engineer at SAMSUNG .
 - 🌱 &nbsp; Learning more about Web3 , Artificial Intelligence and Cloud Architecture.
 
 <h3> 🛠 &nbsp;Personal website</h3>
