@@ -1,11 +1,11 @@
 
 
-<h2> Hey there! I'm Alex.yang.</h2>
+<h2> Hey there! I'm Alex.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and software solutions .
-- 🌱 &nbsp; Learning more about Web3 , Artificial Intelligence and Cloud Architecture.
+- 🤔 &nbsp; Exploring new technologies and software solutions.
+- 🌱 &nbsp; Blockchain developer, AI engineer.
 
 <h3> 🛠 &nbsp;Personal website</h3>
 
