@@ -10,6 +10,12 @@
 <h3> 🛠 &nbsp;Personal website</h3>
 
 
+#### 🔨 Coding Activities
+
+[![Contributions Badge](https://badges.strrl.dev/contributions/all/Alex-wuhu?style=flat-square)](https://github.com/Alex-wuhu)
+[![Contributions Badge](https://badges.strrl.dev/contributions/weekly/Alex-wuhu?style=flat-square)](https://github.com/Alex-wuhu)
+[![Commits Badge](https://badges.strrl.dev/commits/weekly/Alex-wuhu?style=flat-square)](https://github.com/Alex-wuhu)
+[![Issues and PRs Badge](https://badges.strrl.dev/issues-and-prs/weekly/Alex-wuhu?style=flat-square)](https://github.com/Alex-wuhu)
 
 <br/>
 
@@ -19,6 +25,8 @@
 </a>
 
 <br/>
+
+[![Alex's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Alex-wuhu)](https://github.com/Alex-wuhu/github-readme-stats)
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
