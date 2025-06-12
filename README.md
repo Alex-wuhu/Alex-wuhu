@@ -7,7 +7,7 @@
 - 🤔 &nbsp; Exploring new technologies and software solutions.
 - 🌱 &nbsp; Blockchain developer, AI engineer.
 
-<h3> 🛠 &nbsp;Personal website</h3>
+
 
 
 #### 🔨 Coding Activities
