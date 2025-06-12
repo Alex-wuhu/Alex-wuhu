@@ -26,7 +26,7 @@
 
 <br/>
 
-[![Alex's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Alex-wuhu)](https://github.com/Alex-wuhu/github-readme-stats)
+[![Alex's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Alexwuhu)](https://github.com/Alex-wuhu/github-readme-stats)
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
