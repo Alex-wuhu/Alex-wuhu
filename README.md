@@ -15,7 +15,7 @@
 [![Contributions Badge](https://badges.strrl.dev/contributions/all/Alex-wuhu?style=flat-square)](https://github.com/Alex-wuhu)
 [![Contributions Badge](https://badges.strrl.dev/contributions/weekly/Alex-wuhu?style=flat-square)](https://github.com/Alex-wuhu)
 [![Commits Badge](https://badges.strrl.dev/commits/weekly/Alex-wuhu?style=flat-square)](https://github.com/Alex-wuhu)
-[![Issues and PRs Badge](https://badges.strrl.dev/issues-and-prs/weekly/Alex-wuhu?style=flat-square)](https://github.com/Alex-wuhu)
+
 
 
 <!--START_SECTION:waka-->
@@ -43,6 +43,10 @@ Windows                  4 mins              ░░░░░░░░░░░�
 
  Last Updated on 23/09/2025 11:42:08 UTC
 <!--END_SECTION:waka-->
+<a href="https://github.com/Alex-wuhu">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alex-wuhu&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-wuhu&theme=buefy&layout=compact" />
+</a>
 
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
