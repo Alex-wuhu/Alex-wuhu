@@ -17,14 +17,6 @@
 [![Commits Badge](https://badges.strrl.dev/commits/weekly/Alex-wuhu?style=flat-square)](https://github.com/Alex-wuhu)
 [![Issues and PRs Badge](https://badges.strrl.dev/issues-and-prs/weekly/Alex-wuhu?style=flat-square)](https://github.com/Alex-wuhu)
 
-<br/>
-
-<a href="https://github.com/Alex-wuhu">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alex-wuhu&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-wuhu&theme=buefy&layout=compact" />
-</a>
-
-<br/>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-142%20hrs%2036%20mins-blue)
