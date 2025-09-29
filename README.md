@@ -4,8 +4,8 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and software solutions.
-- 🌱 &nbsp; Blockchain developer, AI engineer.
+- 🤔 &nbsp; Samsung -> Apus network.
+- 🌱 &nbsp; C# engineer -> Blockchain developer, AI engineer.
 
 
 
