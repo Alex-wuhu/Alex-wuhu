@@ -21,7 +21,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-154%20hrs%2021%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-124-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-125-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -29,18 +29,18 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               5 hrs 37 mins       ████████████░░░░░░░░░░░░░   48.02 % 
-Markdown                 3 hrs 56 mins       ████████░░░░░░░░░░░░░░░░░   33.63 % 
-Vue.js                   1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
-Python                   25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
-Other                    15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
+TypeScript               3 hrs 56 mins       ██████████░░░░░░░░░░░░░░░   39.40 % 
+Markdown                 3 hrs 56 mins       ██████████░░░░░░░░░░░░░░░   39.25 % 
+Vue.js                   1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
+Python                   25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+Other                    15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
 
 💻 Operating System: 
-Linux                    11 hrs 42 mins      █████████████████████████   100.00 % 
+Linux                    10 hrs 1 min        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 01/10/2025 18:48:26 UTC
+ Last Updated on 02/10/2025 18:45:50 UTC
 <!--END_SECTION:waka-->
 <a href="https://github.com/Alex-wuhu">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alex-wuhu&theme=buefy&show_icons=true" />
