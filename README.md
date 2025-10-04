@@ -21,10 +21,26 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-154%20hrs%2021%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-125-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-133-blue)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Markdown                 3 hrs 37 mins       ███████████████░░░░░░░░░░   58.57 % 
+Vue.js                   1 hr 6 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
+TypeScript               52 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
+Other                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
+Python                   9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
+
+💻 Operating System: 
+Linux                    6 hrs 11 mins       █████████████████████████   100.00 % 
+```
 
 
- Last Updated on 04/10/2025 09:35:25 UTC
+ Last Updated on 04/10/2025 18:44:17 UTC
 <!--END_SECTION:waka-->
 <a href="https://github.com/Alex-wuhu">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alex-wuhu&theme=buefy&show_icons=true" />
