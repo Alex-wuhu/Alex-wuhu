@@ -12,10 +12,6 @@
 
 #### 🔨 Coding Activities
 
-[![Contributions Badge](https://badges.strrl.dev/contributions/all/Alex-wuhu?style=flat-square)](https://github.com/Alex-wuhu)
-[![Contributions Badge](https://badges.strrl.dev/contributions/weekly/Alex-wuhu?style=flat-square)](https://github.com/Alex-wuhu)
-[![Commits Badge](https://badges.strrl.dev/commits/weekly/Alex-wuhu?style=flat-square)](https://github.com/Alex-wuhu)
-
 
 
 <!--START_SECTION:waka-->
