@@ -6,6 +6,7 @@
 
 - 🤔 &nbsp; Samsung -> Apus network.
 - 🌱 &nbsp; C# engineer -> Blockchain developer, AI engineer.
+- 🔗 &nbsp; More -> [Alex.com](https://alex−yang.netlify.app/)
 
 
 
