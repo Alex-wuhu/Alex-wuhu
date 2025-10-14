@@ -18,13 +18,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 June 2025 - To: 13 October 2025
+From: 10 June 2025 - To: 14 October 2025
 
-Total Time: 156 hrs 24 mins
+Total Time: 156 hrs 30 mins
 
-Lua           52 hrs 11 mins  ████████░░░░░░░░░░░░░░░░░   32.57 %
-Erlang        26 hrs 33 mins  ████░░░░░░░░░░░░░░░░░░░░░   16.57 %
-TypeScript    22 hrs 54 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.30 %
+Lua           52 hrs 15 mins  ████████░░░░░░░░░░░░░░░░░   32.60 %
+Erlang        26 hrs 33 mins  ████░░░░░░░░░░░░░░░░░░░░░   16.56 %
+TypeScript    22 hrs 54 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.29 %
 JavaScript    15 hrs 36 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.74 %
 Markdown      13 hrs 37 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 %
 Python        4 hrs 1 min     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
