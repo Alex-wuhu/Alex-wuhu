@@ -18,17 +18,17 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 June 2025 - To: 27 October 2025
+From: 10 June 2025 - To: 28 October 2025
 
-Total Time: 162 hrs 25 mins
+Total Time: 162 hrs 52 mins
 
-Lua           52 hrs 15 mins  ████████░░░░░░░░░░░░░░░░░   31.43 %
-Erlang        26 hrs 47 mins  ████░░░░░░░░░░░░░░░░░░░░░   16.12 %
-TypeScript    26 hrs 34 mins  ████░░░░░░░░░░░░░░░░░░░░░   15.99 %
-JavaScript    16 hrs 49 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.12 %
-Markdown      14 hrs 15 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 %
-Python        4 hrs 3 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
-Other         3 hrs 48 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
+Lua           52 hrs 15 mins  ███████▓░░░░░░░░░░░░░░░░░   31.33 %
+Erlang        27 hrs 8 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.28 %
+TypeScript    26 hrs 34 mins  ████░░░░░░░░░░░░░░░░░░░░░   15.93 %
+JavaScript    16 hrs 49 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.09 %
+Markdown      14 hrs 15 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 %
+Python        4 hrs 3 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
+Other         3 hrs 56 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
 ```
 
 <!--END_SECTION:waka-->
