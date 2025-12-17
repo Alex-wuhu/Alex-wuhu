@@ -18,18 +18,18 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 June 2025 - To: 15 December 2025
+From: 10 June 2025 - To: 16 December 2025
 
-Total Time: 230 hrs 1 min
+Total Time: 230 hrs 36 mins
 
-Lua           52 hrs 16 mins  █████▓░░░░░░░░░░░░░░░░░░░   22.14 %
-Python        35 hrs 26 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   15.01 %
-TypeScript    31 hrs 7 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.18 %
-Erlang        27 hrs 11 mins  ███░░░░░░░░░░░░░░░░░░░░░░   11.52 %
-Markdown      23 hrs 40 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.02 %
-JavaScript    18 hrs 7 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 %
-Bash          13 hrs 40 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.79 %
-Other         6 hrs 5 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
+Lua           52 hrs 16 mins  █████▓░░░░░░░░░░░░░░░░░░░   22.08 %
+Python        35 hrs 43 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   15.09 %
+TypeScript    31 hrs 7 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.15 %
+Erlang        27 hrs 11 mins  ███░░░░░░░░░░░░░░░░░░░░░░   11.49 %
+Markdown      23 hrs 55 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.10 %
+JavaScript    18 hrs 7 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 %
+Bash          13 hrs 43 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.80 %
+Other         6 hrs 6 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
 ```
 
 <!--END_SECTION:waka-->
