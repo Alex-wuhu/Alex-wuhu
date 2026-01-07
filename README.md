@@ -5,7 +5,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Samsung -> Apus network.
-- 🌱 &nbsp; C# engineer -> Blockchain developer, AI engineer.
+- 🌱 &nbsp; C# engineer -> Dev Rel & AI engineer.
 - 🔗 &nbsp; More -> [Alex.com](https://alex-yang.netlify.app/)
 
 
