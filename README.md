@@ -3,13 +3,8 @@
 <h2> Hey there! I'm Alex.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
-
-- 🤔 &nbsp; Samsung -> Apus network.
 - 🌱 &nbsp; C# engineer -> Dev Rel & AI engineer.
 - 🔗 &nbsp; More -> [Alex.com](https://alex-yang.netlify.app/)
-
-
-
 
 #### 🔨 Coding Activities
 
