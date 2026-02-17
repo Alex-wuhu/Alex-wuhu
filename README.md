@@ -4,7 +4,7 @@
 
 ### Hi there 👋
 
-[![wakatime](https://wakatime.com/badge/user/667e03e1-d7c9-4da4-bcb1-b77c7aa1e1bf.svg)](https://wakatime.com/@667e03e1-d7c9-4da4-bcb1-b77c7aa1e1bf)
+[![wakatime](https://wakatime.com/badge/user/5723b920-24e8-49e0-b97e-df3ba967362d.svg)](https://wakatime.com/@Alexwuhu)
 [![GitHub](https://img.shields.io/github/followers/Alex-wuhu?logo=github&style=flat-square)](https://github.com/Alex-wuhu)
 [![blog](https://img.shields.io/badge/blog-alex--yang-9cf?style=flat-square)](https://alex-yang.netlify.app)
 [![Visits Badge](https://badges.strrl.dev/visits/Alex-wuhu/Alex-wuhu?style=flat-square)](https://github.com/Alex-wuhu)
