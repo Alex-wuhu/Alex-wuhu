@@ -27,16 +27,12 @@ I write [blog posts](https://alex-yang.netlify.app/posts) about AI Infra, Blockc
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 June 2025 - To: 16 February 2026
+From: 09 February 2026 - To: 16 February 2026
 
-Lua                                ████▓░░░░░░░░░░░░░░░░░░░░   18.53 %
-Markdown                           ███▓░░░░░░░░░░░░░░░░░░░░░   15.06 %
-Python                             ███▓░░░░░░░░░░░░░░░░░░░░░   14.40 %
-TypeScript                         ███▒░░░░░░░░░░░░░░░░░░░░░   12.80 %
-Erlang                             ██▒░░░░░░░░░░░░░░░░░░░░░░   09.65 %
-Bash                               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.88 %
-JavaScript                         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.80 %
-Other                              ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
+Total Time: 2 hrs 45 mins
+
+Markdown     1 hr 22 mins    ████████████▒░░░░░░░░░░░░   49.58 %
+TypeScript   1 hr 9 mins     ██████████▓░░░░░░░░░░░░░░   42.21 %
 ```
 
 <!--END_SECTION:waka-->
