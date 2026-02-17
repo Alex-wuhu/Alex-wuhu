@@ -10,9 +10,11 @@
 
 <br />
 
-I'm Alex Yang, AI & Blockchain developer at [Apus Network](https://www.apus.network/). Previously Software Engineer at Samsung Electronics.
+I'm Alex, open source enthusiast, passionate about AI and Blockchain.
 
-I write [blog posts](https://alex-yang.netlify.app/posts) about AI Infra, Blockchain technology, etc.
+🎓 Software Engineering @ Hanyang University, South Korea
+
+I want to learn things and become a better developer. I enjoy coding, thinking and writing in my leisure time.
 
 #### 🚀 GitHub Activities
 
