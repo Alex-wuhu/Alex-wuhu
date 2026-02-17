@@ -20,8 +20,8 @@ jobs:
           BLOCKS: ░▒▓█ # optional
           TIME_RANGE: all_time # optional
           LANG_COUNT: 10 # optional
-          SHOW_TIME: true # optional
-          SHOW_TOTAL: true # optional
+          SHOW_TIME: false # Hide individual time - focus on languages
+          SHOW_TOTAL: false # Hide total time - focus on tech stack
           SHOW_MASKED_TIME: false # optional
           STOP_AT_OTHER: true # optional
           IGNORED_LANGUAGES: YAML JSON TOML # optional

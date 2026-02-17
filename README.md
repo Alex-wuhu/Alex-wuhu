@@ -17,7 +17,7 @@ I write [blog posts](https://alex-yang.netlify.app/posts) about AI Infra, Blockc
 [![Commits Badge](https://badges.strrl.dev/commits/weekly/Alex-wuhu?style=flat-square)](https://github.com/Alex-wuhu)
 [![Issues and PRs Badge](https://badges.strrl.dev/issues-and-prs/weekly/Alex-wuhu?style=flat-square)](https://github.com/Alex-wuhu)
 
-#### 💻 Tech Stack & Coding Time
+#### 💻 Languages & Tools
 
 <!--START_SECTION:waka-->
 
@@ -41,8 +41,8 @@ Other              6 hrs 54 mins   ▓░░░░░░░░░░░░░░
 #### 📊 GitHub Statistics
 
 <a href="https://github.com/Alex-wuhu">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alex-wuhu&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-wuhu&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alex-wuhu&theme=buefy&show_icons=true&cache_seconds=1800&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-wuhu&theme=buefy&layout=compact&cache_seconds=1800&hide=html,css" />
 </a>
 
 #### 📰 Recent Blog Posts
