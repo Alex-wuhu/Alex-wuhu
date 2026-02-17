@@ -1,6 +1,22 @@
+### Hi there 👋
 
+[![wakatime](https://wakatime.com/badge/user/667e03e1-d7c9-4da4-bcb1-b77c7aa1e1bf.svg)](https://wakatime.com/@667e03e1-d7c9-4da4-bcb1-b77c7aa1e1bf)
+[![GitHub](https://img.shields.io/github/followers/Alex-wuhu?logo=github&style=flat-square)](https://github.com/Alex-wuhu)
+[![blog](https://img.shields.io/badge/blog-alex--yang-9cf?style=flat-square)](https://alex-yang.netlify.app)
+[![Visits Badge](https://badges.strrl.dev/visits/Alex-wuhu/Alex-wuhu?style=flat-square)](https://github.com/Alex-wuhu)
+
+<br />
+
+I'm Alex Yang, AI & Blockchain developer at [Apus Network](https://www.apus.network/). Previously Software Engineer at Samsung Electronics.
+
+I write [blog posts](https://alex-yang.netlify.app/posts) about AI Infra, Blockchain technology, etc.
 
 #### 🔨 Coding Activities
+
+[![Contributions Badge](https://badges.strrl.dev/contributions/all/Alex-wuhu?style=flat-square)](https://github.com/Alex-wuhu)
+[![Contributions Badge](https://badges.strrl.dev/contributions/weekly/Alex-wuhu?style=flat-square)](https://github.com/Alex-wuhu)
+[![Commits Badge](https://badges.strrl.dev/commits/weekly/Alex-wuhu?style=flat-square)](https://github.com/Alex-wuhu)
+[![Issues and PRs Badge](https://badges.strrl.dev/issues-and-prs/weekly/Alex-wuhu?style=flat-square)](https://github.com/Alex-wuhu)
 
 
 
@@ -22,11 +38,19 @@ Other              6 hrs 54 mins   ▓░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+
+#### 📊 GitHub Statistics
+
 <a href="https://github.com/Alex-wuhu">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alex-wuhu&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-wuhu&theme=buefy&layout=compact" />
 </a>
 
+#### 📰 Recent Blog Posts
+
+<!-- blog starts -->
+* Coming soon...
+<!-- blog ends -->
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
