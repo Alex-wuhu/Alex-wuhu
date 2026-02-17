@@ -18,10 +18,10 @@ jobs:
           SHOW_TITLE: true # optional
           SECTION_NAME: waka # optional
           BLOCKS: ░▒▓█ # optional
-          TIME_RANGE: all_time # optional
+          TIME_RANGE: last_7_days # Show this week's coding time
           LANG_COUNT: 10 # optional
-          SHOW_TIME: false # Hide individual time - focus on languages
-          SHOW_TOTAL: false # Hide total time - focus on tech stack
+          SHOW_TIME: true # Show individual time for weekly stats
+          SHOW_TOTAL: true # Show total time for the week
           SHOW_MASKED_TIME: false # optional
           STOP_AT_OTHER: true # optional
           IGNORED_LANGUAGES: YAML JSON TOML # optional

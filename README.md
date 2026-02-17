@@ -1,5 +1,10 @@
+<p align="center">
+ <h3 align="center">🧑🏻‍💻 Vibe Coding... 🧑🏻‍💻</h3>
+</p>
+
 ### Hi there 👋
 
+[![wakatime](https://wakatime.com/badge/user/667e03e1-d7c9-4da4-bcb1-b77c7aa1e1bf.svg)](https://wakatime.com/@667e03e1-d7c9-4da4-bcb1-b77c7aa1e1bf)
 [![GitHub](https://img.shields.io/github/followers/Alex-wuhu?logo=github&style=flat-square)](https://github.com/Alex-wuhu)
 [![blog](https://img.shields.io/badge/blog-alex--yang-9cf?style=flat-square)](https://alex-yang.netlify.app)
 [![Visits Badge](https://badges.strrl.dev/visits/Alex-wuhu/Alex-wuhu?style=flat-square)](https://github.com/Alex-wuhu)
@@ -17,7 +22,7 @@ I write [blog posts](https://alex-yang.netlify.app/posts) about AI Infra, Blockc
 [![Commits Badge](https://badges.strrl.dev/commits/weekly/Alex-wuhu?style=flat-square)](https://github.com/Alex-wuhu)
 [![Issues and PRs Badge](https://badges.strrl.dev/issues-and-prs/weekly/Alex-wuhu?style=flat-square)](https://github.com/Alex-wuhu)
 
-#### 💻 Languages & Tools
+#### 💻 This Week I Code With
 
 <!--START_SECTION:waka-->
 
@@ -35,13 +40,6 @@ Other                              ▓░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-
-#### 📊 GitHub Statistics
-
-<a href="https://github.com/Alex-wuhu">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alex-wuhu&theme=buefy&show_icons=true&cache_seconds=1800&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-wuhu&theme=buefy&layout=compact&cache_seconds=1800&hide=html,css" />
-</a>
 
 #### 📰 Recent Blog Posts
 
