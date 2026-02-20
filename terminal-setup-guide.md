@@ -28,11 +28,12 @@ brew install zsh-autosuggestions zsh-syntax-highlighting powerlevel10k
 
 ```ini
 # 字体配置
-font-family = "SF Mono"
+font-family = "Sarasa Mono SC"
 font-size = 14
 font-feature = ss01
 font-feature = ss02
 adjust-cell-height = 20%
+font-thicken = true
 
 # 主题 - Catppuccin Mocha (深色主题，颜色丰富)
 theme = catppuccin-mocha
@@ -54,12 +55,16 @@ background-opacity = 0.95
 bold-is-bright = true
 
 # 滚动
-scrollback-limit = 10000
+scrollback-limit = 100000
 
 # 复制粘贴
 clipboard-read = allow
 clipboard-write = allow
 copy-on-select = clipboard
+
+# 分屏快捷键
+keybind = cmd+d=new_split:right
+keybind = cmd+shift+d=new_split:down
 
 # Shell 集成
 shell-integration = zsh
@@ -117,6 +122,9 @@ p10k configure
 - **自动补全**：输入时显示灰色历史命令建议，按 `→` 键采纳
 - **语法高亮**：正确命令绿色，错误/不存在的命令红色
 - **终端外观**：Catppuccin Mocha 深色主题，95% 透明度
+- **字体**：Sarasa Mono SC（更纱黑体），代码与中文显示统一协调，开启 font-thicken
+- **分屏**：`Cmd+D` 右侧分屏，`Cmd+Shift+D` 下方分屏
+- **滚动**：10 万行回滚缓冲区
 
 ---
 
@@ -139,6 +147,11 @@ brew install --cask font-meslo-lg-nerd-font
 然后在 Ghostty 配置中修改：
 ```ini
 font-family = "MesloLGS NF"
+```
+
+### 安装 Sarasa Mono SC 字体
+```bash
+brew install --cask font-sarasa-gothic
 ```
 
 ### Intel Mac 路径不同
