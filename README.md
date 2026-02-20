@@ -2,7 +2,7 @@
  <h3 align="center">🧑🏻‍💻 Vibe Coding... 🧑🏻‍💻</h3>
 </p>
 
-### Hi there 👋
+### Hi there 👋 I'm Alex
 
 [![wakatime](https://wakatime.com/badge/user/5723b920-24e8-49e0-b97e-df3ba967362d.svg)](https://wakatime.com/@Alexwuhu)
 [![GitHub](https://img.shields.io/github/followers/Alex-wuhu?logo=github&style=flat-square)](https://github.com/Alex-wuhu)
@@ -10,11 +10,6 @@
 
 <br />
 
-I'm Alex, open source enthusiast, passionate about AI and Blockchain.
-
-🎓 Software Engineering @ Hanyang University, South Korea
-
-I want to learn things and become a better developer. I enjoy coding, thinking and writing in my leisure time.
 
 #### 🚀 GitHub Activities
 
