@@ -1,7 +1,5 @@
 ### Hey, I'm Alex
 
-Dev Rel + AI Researcher. Building tools for AI agents.
-
 ---
 
 <br>
