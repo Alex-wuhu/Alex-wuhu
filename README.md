@@ -29,7 +29,11 @@
 
 ### GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Alex-wuhu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&count_private=true" alt="GitHub Stats" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Alex-wuhu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Alex-wuhu&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Alex-wuhu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+</picture>
 
 </td>
 </tr>
@@ -39,37 +43,17 @@
 
 ## Featured Projects
 
-<table align="center">
-<tr>
-<td width="50%">
-
-<h3 align="center">autoforge</h3>
-<p align="center">
-  <a href="https://github.com/Alex-wuhu/autoforge">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alex-wuhu&repo=autoforge&theme=tokyonight&hide_border=true&bg_color=00000000" alt="autoforge" />
-  </a>
-</p>
-<p align="center">Autonomous optimization of anything — generalized from Karpathy's autoresearch. Pluggable metrics, works on articles, code, prompts, and more.</p>
-
-</td>
-<td width="50%">
-
-<h3 align="center">Harness-design</h3>
-<p align="center">
-  <a href="https://github.com/Alex-wuhu/Harness-design">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alex-wuhu&repo=Harness-design&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Harness-design" />
-  </a>
-</p>
-<p align="center">Multi-agent harness methodology for AI coding agents. Planner-Generator-Evaluator pipeline — pure markdown, no code, no dependencies.</p>
-
-</td>
-</tr>
-</table>
+- [**autoforge**](https://github.com/Alex-wuhu/autoforge) — Autonomous optimization of anything, generalized from Karpathy's autoresearch
+- [**Harness-design**](https://github.com/Alex-wuhu/Harness-design) — Multi-agent harness methodology for AI coding agents
 
 <br>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Alex-wuhu&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=Alex-wuhu&theme=tokyonight&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=Alex-wuhu&theme=default&hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Alex-wuhu&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </picture>
 </p>
 
 ---
