@@ -29,11 +29,9 @@
 
 ### GitHub Stats
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Alex-wuhu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Alex-wuhu&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Alex-wuhu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-</picture>
+<a href="https://github.com/Alex-wuhu">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alex-wuhu&theme=tokyonight" alt="GitHub Stats" />
+</a>
 
 </td>
 </tr>
