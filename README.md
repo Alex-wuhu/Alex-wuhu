@@ -1,52 +1,79 @@
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=A9FEF7&center=true&vCenter=true&random=false&width=500&lines=Hey%2C+I'm+Alex+%F0%9F%91%8B;Dev+Rel+%2B+AI+Researcher;Building+tools+for+AI+agents" alt="Typing SVG" />
+  </a>
+</h1>
+
 <p align="center">
- <h3 align="center">🧑🏻‍💻 Vibe Coding... 🧑🏻‍💻</h3>
+  <a href="https://wakatime.com/@Alexwuhu"><img src="https://wakatime.com/badge/user/5723b920-24e8-49e0-b97e-df3ba967362d.svg?style=flat-square" alt="wakatime"></a>&nbsp;
+  <a href="https://github.com/Alex-wuhu"><img src="https://img.shields.io/github/followers/Alex-wuhu?style=flat-square&logo=github&label=Follow" alt="GitHub"></a>&nbsp;
+  <a href="https://github.com/Alex-wuhu"><img src="https://komarev.com/ghpvc/?username=Alex-wuhu&style=flat-square&color=blueviolet" alt="Profile Views"></a>
 </p>
 
-### Hi there 👋 I'm Alex
+---
 
-[![wakatime](https://wakatime.com/badge/user/5723b920-24e8-49e0-b97e-df3ba967362d.svg)](https://wakatime.com/@Alexwuhu)
-[![GitHub](https://img.shields.io/github/followers/Alex-wuhu?logo=github&style=flat-square)](https://github.com/Alex-wuhu)
-[![Visits Badge](https://badges.strrl.dev/visits/Alex-wuhu/Alex-wuhu?style=flat-square)](https://github.com/Alex-wuhu)
+<br>
 
-<br />
+<table align="center">
+<tr>
+<td width="50%" valign="top">
 
+### About Me
 
-#### 🚀 GitHub Activities
+- Dev Rel + AI Researcher
+- Interested in AI agents, inference systems & developer tooling
+- Building open-source tools that make AI agents more structured and effective
 
-[![Contributions Badge](https://badges.strrl.dev/contributions/all/Alex-wuhu?style=flat-square)](https://github.com/Alex-wuhu)
-[![Contributions Badge](https://badges.strrl.dev/contributions/weekly/Alex-wuhu?style=flat-square)](https://github.com/Alex-wuhu)
-[![Commits Badge](https://badges.strrl.dev/commits/weekly/Alex-wuhu?style=flat-square)](https://github.com/Alex-wuhu)
-[![Issues and PRs Badge](https://badges.strrl.dev/issues-and-prs/weekly/Alex-wuhu?style=flat-square)](https://github.com/Alex-wuhu)
+</td>
+<td width="50%" valign="top">
 
-#### 💻 Languages & Tools
+### GitHub Stats
 
-<!--START_SECTION:waka-->
+<img src="https://github-readme-stats.vercel.app/api?username=Alex-wuhu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&count_private=true" alt="GitHub Stats" />
 
-```txt
-From: 10 June 2025 - To: 31 March 2026
+</td>
+</tr>
+</table>
 
-Total Time: 289 hrs 34 mins
+<br>
 
-Lua                52 hrs 34 mins        ████▒░░░░░░░░░░░░░░░░░░░░   17.70 %
-Markdown           47 hrs 3 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.85 %
-Python             40 hrs 43 mins        ███▒░░░░░░░░░░░░░░░░░░░░░   13.71 %
-TypeScript         37 hrs 28 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.62 %
-Erlang             27 hrs 16 mins        ██▒░░░░░░░░░░░░░░░░░░░░░░   09.19 %
-Bash               20 hrs 43 mins        █▓░░░░░░░░░░░░░░░░░░░░░░░   06.98 %
-JavaScript         19 hrs 17 mins        █▓░░░░░░░░░░░░░░░░░░░░░░░   06.50 %
-Other              7 hrs 25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
-```
+## Featured Projects
 
-<!--END_SECTION:waka-->
+<table align="center">
+<tr>
+<td width="50%">
 
-#### 📰 Recent Blog Posts
+<h3 align="center">autoforge</h3>
+<p align="center">
+  <a href="https://github.com/Alex-wuhu/autoforge">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alex-wuhu&repo=autoforge&theme=tokyonight&hide_border=true&bg_color=00000000" alt="autoforge" />
+  </a>
+</p>
+<p align="center">Autonomous optimization of anything — generalized from Karpathy's autoresearch. Pluggable metrics, works on articles, code, prompts, and more.</p>
 
-<!-- blog starts -->
-* Coming soon...
-<!-- blog ends -->
+</td>
+<td width="50%">
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<h3 align="center">Harness-design</h3>
+<p align="center">
+  <a href="https://github.com/Alex-wuhu/Harness-design">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alex-wuhu&repo=Harness-design&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Harness-design" />
+  </a>
+</p>
+<p align="center">Multi-agent harness methodology for AI coding agents. Planner-Generator-Evaluator pipeline — pure markdown, no code, no dependencies.</p>
+
+</td>
+</tr>
+</table>
+
+<br>
 
 <p align="center">
-<a href="yanglongwei06@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-yanglongwei06@gmail.com-blue?style=flat-square&logo=gmail"></a>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Alex-wuhu&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
+</p>
+
+---
+
+<p align="center">
+  <a href="mailto:yanglongwei06@gmail.com"><img src="https://img.shields.io/badge/Gmail-yanglongwei06-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
