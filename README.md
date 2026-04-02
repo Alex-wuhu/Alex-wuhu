@@ -56,6 +56,14 @@
   </picture>
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alex-wuhu/Alex-wuhu/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alex-wuhu/Alex-wuhu/output/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/Alex-wuhu/Alex-wuhu/output/github-snake.svg" alt="Snake animation" />
+  </picture>
+</p>
+
 ---
 
 <p align="center">
