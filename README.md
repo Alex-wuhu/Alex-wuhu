@@ -1,14 +1,6 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=A9FEF7&center=true&vCenter=true&random=false&width=500&lines=Hey%2C+I'm+Alex+%F0%9F%91%8B;Dev+Rel+%2B+AI+Researcher;Building+tools+for+AI+agents" alt="Typing SVG" />
-  </a>
-</h1>
+### Hey, I'm Alex
 
-<p align="center">
-  <a href="https://wakatime.com/@Alexwuhu"><img src="https://wakatime.com/badge/user/5723b920-24e8-49e0-b97e-df3ba967362d.svg?style=flat-square" alt="wakatime"></a>&nbsp;
-  <a href="https://github.com/Alex-wuhu"><img src="https://img.shields.io/github/followers/Alex-wuhu?style=flat-square&logo=github&label=Follow" alt="GitHub"></a>&nbsp;
-  <a href="https://github.com/Alex-wuhu"><img src="https://komarev.com/ghpvc/?username=Alex-wuhu&style=flat-square&color=blueviolet" alt="Profile Views"></a>
-</p>
+Dev Rel + AI Researcher. Building tools for AI agents.
 
 ---
 
